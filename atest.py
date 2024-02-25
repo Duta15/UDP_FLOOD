@@ -4,7 +4,7 @@ import random
 from time import time as tt
 
 def DNS():
-    ip = "216.146.26.85
+    ip = "20.167.48.131"
     port = 7777
     time = 300
 
